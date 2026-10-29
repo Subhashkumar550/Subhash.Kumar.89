@@ -1,0 +1,7 @@
+nums = {1, 2, 3, 4, 5}
+print("before:", nums)
+
+nums.add(10)
+nums.remove(1)   # remove any one number
+
+print("after:", nums)
